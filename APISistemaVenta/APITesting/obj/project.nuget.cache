@@ -1,0 +1,72 @@
+{
+  "version": 2,
+  "dgSpecHash": "v2DK7X5kEsFP+oYtIN9Bj0qpU1s49n2PyvXQg2Y5Fz/UWBsAJRS5DSgeuob80rETa+Y48zFbjOVqxNalj3d8bQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Andy_\\OneDrive\\Escritorio\\Trabajo dirigido\\Final Proyecto\\APISistemaVenta\\APITesting\\APITesting.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project SistemaVenta.DAL is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project SistemaVenta.DAL supports: net7.0 (.NETCoreApp,Version=v7.0)",
+      "libraryId": "SistemaVenta.DAL",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project SistemaVenta.API is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project SistemaVenta.API supports: net7.0 (.NETCoreApp,Version=v7.0)",
+      "libraryId": "SistemaVenta.API",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project SistemaVenta.IOC is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project SistemaVenta.IOC supports: net7.0 (.NETCoreApp,Version=v7.0)",
+      "libraryId": "SistemaVenta.IOC",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project SistemaVenta.BLL is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project SistemaVenta.BLL supports: net7.0 (.NETCoreApp,Version=v7.0)",
+      "libraryId": "SistemaVenta.BLL",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project SistemaVenta.Model is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project SistemaVenta.Model supports: net7.0 (.NETCoreApp,Version=v7.0)",
+      "libraryId": "SistemaVenta.Model",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project SistemaVenta.Utility is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project SistemaVenta.Utility supports: net7.0 (.NETCoreApp,Version=v7.0)",
+      "libraryId": "SistemaVenta.Utility",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project SistemaVenta.DTO is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project SistemaVenta.DTO supports: net7.0 (.NETCoreApp,Version=v7.0)",
+      "libraryId": "SistemaVenta.DTO",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

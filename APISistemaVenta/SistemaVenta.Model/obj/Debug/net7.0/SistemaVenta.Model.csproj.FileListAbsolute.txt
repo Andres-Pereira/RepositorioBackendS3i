@@ -1,0 +1,14 @@
+C:\Users\Andy_\OneDrive\Escritorio\Trabajo dirigido\Final Proyecto\APISistemaVenta\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.deps.json
+C:\Users\Andy_\OneDrive\Escritorio\Trabajo dirigido\Final Proyecto\APISistemaVenta\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.runtimeconfig.json
+C:\Users\Andy_\OneDrive\Escritorio\Trabajo dirigido\Final Proyecto\APISistemaVenta\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.dll
+C:\Users\Andy_\OneDrive\Escritorio\Trabajo dirigido\Final Proyecto\APISistemaVenta\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.pdb
+C:\Users\Andy_\OneDrive\Escritorio\Trabajo dirigido\Final Proyecto\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.csproj.AssemblyReference.cache
+C:\Users\Andy_\OneDrive\Escritorio\Trabajo dirigido\Final Proyecto\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andy_\OneDrive\Escritorio\Trabajo dirigido\Final Proyecto\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.AssemblyInfoInputs.cache
+C:\Users\Andy_\OneDrive\Escritorio\Trabajo dirigido\Final Proyecto\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.AssemblyInfo.cs
+C:\Users\Andy_\OneDrive\Escritorio\Trabajo dirigido\Final Proyecto\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.csproj.CoreCompileInputs.cache
+C:\Users\Andy_\OneDrive\Escritorio\Trabajo dirigido\Final Proyecto\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.dll
+C:\Users\Andy_\OneDrive\Escritorio\Trabajo dirigido\Final Proyecto\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\refint\SistemaVenta.Model.dll
+C:\Users\Andy_\OneDrive\Escritorio\Trabajo dirigido\Final Proyecto\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.pdb
+C:\Users\Andy_\OneDrive\Escritorio\Trabajo dirigido\Final Proyecto\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.genruntimeconfig.cache
+C:\Users\Andy_\OneDrive\Escritorio\Trabajo dirigido\Final Proyecto\APISistemaVenta\SistemaVenta.Model\obj\Debug\net7.0\ref\SistemaVenta.Model.dll

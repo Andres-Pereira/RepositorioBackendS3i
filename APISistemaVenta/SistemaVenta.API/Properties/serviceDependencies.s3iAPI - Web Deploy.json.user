@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "apis1": {
+      "restored": true,
+      "restoreTime": "2024-07-16T18:27:05.5908885Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2024-07-16T18:45:20.9866655Z"
+    }
+  },
+  "parameters": {
+    "apis1.resourceGroupName": {
+      "Name": "apis1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "S3iDB"
+    },
+    "apis1.subscriptionId": {
+      "Name": "apis1.subscriptionId",
+      "Type": "subscription",
+      "Value": "27cb6986-ad06-479b-ae26-613161fb4569"
+    }
+  }
+}

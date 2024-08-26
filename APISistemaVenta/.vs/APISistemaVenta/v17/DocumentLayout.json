@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andy_\\OneDrive\\Escritorio\\Trabajo dirigido\\Final Proyecto\\APISistemaVenta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3207C283-9C15-45D8-BE36-99D3F436C742}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\andy_\\onedrive\\escritorio\\trabajo dirigido\\final proyecto\\apisistemaventa\\sistemaventa.bll\\servicios\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3207C283-9C15-45D8-BE36-99D3F436C742}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\servicios\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C845DE23-CBF2-4C2B-9F3D-4546DDFB347D}|SistemaVenta.API\\SistemaVenta.API.csproj|c:\\users\\andy_\\onedrive\\escritorio\\trabajo dirigido\\final proyecto\\apisistemaventa\\sistemaventa.api\\utilidad\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C845DE23-CBF2-4C2B-9F3D-4546DDFB347D}|SistemaVenta.API\\SistemaVenta.API.csproj|solutionrelative:sistemaventa.api\\utilidad\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB04733-C641-4BDD-B4EC-8B112D4B4612}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|c:\\users\\andy_\\onedrive\\escritorio\\trabajo dirigido\\final proyecto\\apisistemaventa\\sistemaventa.dal\\repositorios\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BB04733-C641-4BDD-B4EC-8B112D4B4612}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|solutionrelative:sistemaventa.dal\\repositorios\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB04733-C641-4BDD-B4EC-8B112D4B4612}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|c:\\users\\andy_\\onedrive\\escritorio\\trabajo dirigido\\final proyecto\\apisistemaventa\\sistemaventa.dal\\repositorios\\interfaces\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BB04733-C641-4BDD-B4EC-8B112D4B4612}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|solutionrelative:sistemaventa.dal\\repositorios\\interfaces\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB04733-C641-4BDD-B4EC-8B112D4B4612}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|c:\\users\\andy_\\onedrive\\escritorio\\trabajo dirigido\\final proyecto\\apisistemaventa\\sistemaventa.dal\\repositorios\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BB04733-C641-4BDD-B4EC-8B112D4B4612}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|solutionrelative:sistemaventa.dal\\repositorios\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5123E04E-9357-4A75-B6A0-F4901252CD0B}|SistemaVenta.Model\\SistemaVenta.Model.csproj|c:\\users\\andy_\\onedrive\\escritorio\\trabajo dirigido\\final proyecto\\apisistemaventa\\sistemaventa.model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5123E04E-9357-4A75-B6A0-F4901252CD0B}|SistemaVenta.Model\\SistemaVenta.Model.csproj|solutionrelative:sistemaventa.model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76BCC99-BF45-4069-A898-2C47C634D719}|SistemaVenta.IOC\\SistemaVenta.IOC.csproj|c:\\users\\andy_\\onedrive\\escritorio\\trabajo dirigido\\final proyecto\\apisistemaventa\\sistemaventa.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76BCC99-BF45-4069-A898-2C47C634D719}|SistemaVenta.IOC\\SistemaVenta.IOC.csproj|solutionrelative:sistemaventa.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3207C283-9C15-45D8-BE36-99D3F436C742}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\andy_\\onedrive\\escritorio\\trabajo dirigido\\final proyecto\\apisistemaventa\\sistemaventa.bll\\servicios\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3207C283-9C15-45D8-BE36-99D3F436C742}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\servicios\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\Andy_\\OneDrive\\Escritorio\\Trabajo dirigido\\Final Proyecto\\APISistemaVenta\\SistemaVenta.API\\Utilidad\\Response.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.API\\Utilidad\\Response.cs",
+              "ToolTip": "C:\\Users\\Andy_\\OneDrive\\Escritorio\\Trabajo dirigido\\Final Proyecto\\APISistemaVenta\\SistemaVenta.API\\Utilidad\\Response.cs",
+              "RelativeToolTip": "SistemaVenta.API\\Utilidad\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T14:59:11.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Andy_\\OneDrive\\Escritorio\\Trabajo dirigido\\Final Proyecto\\APISistemaVenta\\SistemaVenta.BLL\\Servicios\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Servicios\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\Andy_\\OneDrive\\Escritorio\\Trabajo dirigido\\Final Proyecto\\APISistemaVenta\\SistemaVenta.BLL\\Servicios\\UsuarioService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Servicios\\UsuarioService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwDEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T21:03:27.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andy_\\OneDrive\\Escritorio\\Trabajo dirigido\\Final Proyecto\\APISistemaVenta\\SistemaVenta.DAL\\Repositorios\\VentaRepository.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.DAL\\Repositorios\\VentaRepository.cs",
+              "ToolTip": "C:\\Users\\Andy_\\OneDrive\\Escritorio\\Trabajo dirigido\\Final Proyecto\\APISistemaVenta\\SistemaVenta.DAL\\Repositorios\\VentaRepository.cs",
+              "RelativeToolTip": "SistemaVenta.DAL\\Repositorios\\VentaRepository.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAgwGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T20:35:46.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IVentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andy_\\OneDrive\\Escritorio\\Trabajo dirigido\\Final Proyecto\\APISistemaVenta\\SistemaVenta.DAL\\Repositorios\\Interfaces\\IVentaRepository.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.DAL\\Repositorios\\Interfaces\\IVentaRepository.cs",
+              "ToolTip": "C:\\Users\\Andy_\\OneDrive\\Escritorio\\Trabajo dirigido\\Final Proyecto\\APISistemaVenta\\SistemaVenta.DAL\\Repositorios\\Interfaces\\IVentaRepository.cs",
+              "RelativeToolTip": "SistemaVenta.DAL\\Repositorios\\Interfaces\\IVentaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T20:23:22.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andy_\\OneDrive\\Escritorio\\Trabajo dirigido\\Final Proyecto\\APISistemaVenta\\SistemaVenta.DAL\\Repositorios\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.DAL\\Repositorios\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Andy_\\OneDrive\\Escritorio\\Trabajo dirigido\\Final Proyecto\\APISistemaVenta\\SistemaVenta.DAL\\Repositorios\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "SistemaVenta.DAL\\Repositorios\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T20:23:03.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Andy_\\OneDrive\\Escritorio\\Trabajo dirigido\\Final Proyecto\\APISistemaVenta\\SistemaVenta.Model\\Usuario.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.Model\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Andy_\\OneDrive\\Escritorio\\Trabajo dirigido\\Final Proyecto\\APISistemaVenta\\SistemaVenta.Model\\Usuario.cs",
+              "RelativeToolTip": "SistemaVenta.Model\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:44:55.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dependencia.cs",
+              "DocumentMoniker": "C:\\Users\\Andy_\\OneDrive\\Escritorio\\Trabajo dirigido\\Final Proyecto\\APISistemaVenta\\SistemaVenta.IOC\\Dependencia.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.IOC\\Dependencia.cs",
+              "ToolTip": "C:\\Users\\Andy_\\OneDrive\\Escritorio\\Trabajo dirigido\\Final Proyecto\\APISistemaVenta\\SistemaVenta.IOC\\Dependencia.cs",
+              "RelativeToolTip": "SistemaVenta.IOC\\Dependencia.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:18:08.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DashBoardService.cs",
+              "DocumentMoniker": "C:\\Users\\Andy_\\OneDrive\\Escritorio\\Trabajo dirigido\\Final Proyecto\\APISistemaVenta\\SistemaVenta.BLL\\Servicios\\DashBoardService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Servicios\\DashBoardService.cs",
+              "ToolTip": "C:\\Users\\Andy_\\OneDrive\\Escritorio\\Trabajo dirigido\\Final Proyecto\\APISistemaVenta\\SistemaVenta.BLL\\Servicios\\DashBoardService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Servicios\\DashBoardService.cs",
+              "ViewState": "AQIAAEYBAAAAAAAAAAAAwFwBAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T14:20:06.122Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "SistemaVenta.API/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/SistemaVenta.API.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SistemaVenta.API.dll": {}
+        }
+      },
+      "SistemaVenta.BLL/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/SistemaVenta.BLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SistemaVenta.BLL.dll": {}
+        }
+      },
+      "SistemaVenta.DAL/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/SistemaVenta.DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SistemaVenta.DAL.dll": {}
+        }
+      },
+      "SistemaVenta.DTO/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/SistemaVenta.DTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SistemaVenta.DTO.dll": {}
+        }
+      },
+      "SistemaVenta.IOC/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/SistemaVenta.IOC.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SistemaVenta.IOC.dll": {}
+        }
+      },
+      "SistemaVenta.Model/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/SistemaVenta.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SistemaVenta.Model.dll": {}
+        }
+      },
+      "SistemaVenta.Utility/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/SistemaVenta.Utility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SistemaVenta.Utility.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SistemaVenta.API/1.0.0": {
+      "type": "project",
+      "path": "../SistemaVenta.API/SistemaVenta.API.csproj",
+      "msbuildProject": "../SistemaVenta.API/SistemaVenta.API.csproj"
+    },
+    "SistemaVenta.BLL/1.0.0": {
+      "type": "project",
+      "path": "../SistemaVenta.BLL/SistemaVenta.BLL.csproj",
+      "msbuildProject": "../SistemaVenta.BLL/SistemaVenta.BLL.csproj"
+    },
+    "SistemaVenta.DAL/1.0.0": {
+      "type": "project",
+      "path": "../SistemaVenta.DAL/SistemaVenta.DAL.csproj",
+      "msbuildProject": "../SistemaVenta.DAL/SistemaVenta.DAL.csproj"
+    },
+    "SistemaVenta.DTO/1.0.0": {
+      "type": "project",
+      "path": "../SistemaVenta.DTO/SistemaVenta.DTO.csproj",
+      "msbuildProject": "../SistemaVenta.DTO/SistemaVenta.DTO.csproj"
+    },
+    "SistemaVenta.IOC/1.0.0": {
+      "type": "project",
+      "path": "../SistemaVenta.IOC/SistemaVenta.IOC.csproj",
+      "msbuildProject": "../SistemaVenta.IOC/SistemaVenta.IOC.csproj"
+    },
+    "SistemaVenta.Model/1.0.0": {
+      "type": "project",
+      "path": "../SistemaVenta.Model/SistemaVenta.Model.csproj",
+      "msbuildProject": "../SistemaVenta.Model/SistemaVenta.Model.csproj"
+    },
+    "SistemaVenta.Utility/1.0.0": {
+      "type": "project",
+      "path": "../SistemaVenta.Utility/SistemaVenta.Utility.csproj",
+      "msbuildProject": "../SistemaVenta.Utility/SistemaVenta.Utility.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "SistemaVenta.API >= 1.0.0",
+      "SistemaVenta.BLL >= 1.0.0",
+      "SistemaVenta.DAL >= 1.0.0",
+      "SistemaVenta.DTO >= 1.0.0",
+      "SistemaVenta.IOC >= 1.0.0",
+      "SistemaVenta.Model >= 1.0.0",
+      "SistemaVenta.Utility >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Andy_\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Andy_\\OneDrive\\Escritorio\\Trabajo dirigido\\Final Proyecto\\APISistemaVenta\\APITesting\\APITesting.csproj",
+      "projectName": "APITesting",
+      "projectPath": "C:\\Users\\Andy_\\OneDrive\\Escritorio\\Trabajo dirigido\\Final Proyecto\\APISistemaVenta\\APITesting\\APITesting.csproj",
+      "packagesPath": "C:\\Users\\Andy_\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Andy_\\OneDrive\\Escritorio\\Trabajo dirigido\\Final Proyecto\\APISistemaVenta\\APITesting\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Andy_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Andy_\\OneDrive\\Escritorio\\Trabajo dirigido\\Final Proyecto\\APISistemaVenta\\SistemaVenta.API\\SistemaVenta.API.csproj": {
+              "projectPath": "C:\\Users\\Andy_\\OneDrive\\Escritorio\\Trabajo dirigido\\Final Proyecto\\APISistemaVenta\\SistemaVenta.API\\SistemaVenta.API.csproj"
+            },
+            "C:\\Users\\Andy_\\OneDrive\\Escritorio\\Trabajo dirigido\\Final Proyecto\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
+              "projectPath": "C:\\Users\\Andy_\\OneDrive\\Escritorio\\Trabajo dirigido\\Final Proyecto\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj"
+            },
+            "C:\\Users\\Andy_\\OneDrive\\Escritorio\\Trabajo dirigido\\Final Proyecto\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
+              "projectPath": "C:\\Users\\Andy_\\OneDrive\\Escritorio\\Trabajo dirigido\\Final Proyecto\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj"
+            },
+            "C:\\Users\\Andy_\\OneDrive\\Escritorio\\Trabajo dirigido\\Final Proyecto\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {
+              "projectPath": "C:\\Users\\Andy_\\OneDrive\\Escritorio\\Trabajo dirigido\\Final Proyecto\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj"
+            },
+            "C:\\Users\\Andy_\\OneDrive\\Escritorio\\Trabajo dirigido\\Final Proyecto\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj": {
+              "projectPath": "C:\\Users\\Andy_\\OneDrive\\Escritorio\\Trabajo dirigido\\Final Proyecto\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj"
+            },
+            "C:\\Users\\Andy_\\OneDrive\\Escritorio\\Trabajo dirigido\\Final Proyecto\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
+              "projectPath": "C:\\Users\\Andy_\\OneDrive\\Escritorio\\Trabajo dirigido\\Final Proyecto\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj"
+            },
+            "C:\\Users\\Andy_\\OneDrive\\Escritorio\\Trabajo dirigido\\Final Proyecto\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {
+              "projectPath": "C:\\Users\\Andy_\\OneDrive\\Escritorio\\Trabajo dirigido\\Final Proyecto\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project SistemaVenta.DAL is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project SistemaVenta.DAL supports: net7.0 (.NETCoreApp,Version=v7.0)",
+      "libraryId": "SistemaVenta.DAL",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project SistemaVenta.API is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project SistemaVenta.API supports: net7.0 (.NETCoreApp,Version=v7.0)",
+      "libraryId": "SistemaVenta.API",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project SistemaVenta.IOC is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project SistemaVenta.IOC supports: net7.0 (.NETCoreApp,Version=v7.0)",
+      "libraryId": "SistemaVenta.IOC",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project SistemaVenta.BLL is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project SistemaVenta.BLL supports: net7.0 (.NETCoreApp,Version=v7.0)",
+      "libraryId": "SistemaVenta.BLL",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project SistemaVenta.Model is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project SistemaVenta.Model supports: net7.0 (.NETCoreApp,Version=v7.0)",
+      "libraryId": "SistemaVenta.Model",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project SistemaVenta.Utility is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project SistemaVenta.Utility supports: net7.0 (.NETCoreApp,Version=v7.0)",
+      "libraryId": "SistemaVenta.Utility",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project SistemaVenta.DTO is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project SistemaVenta.DTO supports: net7.0 (.NETCoreApp,Version=v7.0)",
+      "libraryId": "SistemaVenta.DTO",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAys44ELYsWUSUD4ipg36YPAAAAAACAAAAAAAQZgAAAAEAACAAAAB+DA+x9BkZEOKcJMnWxx//ecKzAmcWbzh/+bXsJxPw6wAAAAAOgAAAAAIAACAAAAB9KwPD0TC/25SQeR/3YFWu+mqsjT5+4IQkyuRgszZIwYAAAACUcwgedxwT2pUBCWsts7e+H9uEj9ApmA4Vl4kJ9iXDjOeA/DIKebiy6QVdPyvUykWxWgCgZJvBttUE0a1kq+/xsiOHxKIuvFpTIGrpms78uprWwVOe3dN/nFIBqMyU76Cswk+/hHhD0J90nPBmimcs+SHVsFzzSAmT4+vzDt8sGEAAAABGX3x2y+6vnl/I7t2nSrNeYaINksYz0+bTxqH8VNaaBUBzrZ8rrBV8ODR20J3s3c3Y+KO+PYRJ23x+XROabIQR</EncryptedPassword>
+    <History>True|2024-07-21T03:44:35.1630458Z;True|2024-07-20T21:18:31.3484913-04:00;True|2024-07-20T20:53:36.1288449-04:00;True|2024-07-16T14:08:40.4871277-04:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="cadenaSQL">
+      <Value>Server=tcp:s3iserver.database.windows.net,1433%3bInitial Catalog=DBS3i%3bPersist Security Info=False%3bUser ID=administrador%3bPassword=S3iaccess%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

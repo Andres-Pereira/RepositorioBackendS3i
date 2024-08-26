@@ -1,0 +1,12 @@
+C:\Users\Andy_\OneDrive\Escritorio\Trabajo dirigido\Final Proyecto\APISistemaVenta\SistemaVenta.DTO\bin\Debug\net7.0\SistemaVenta.DTO.deps.json
+C:\Users\Andy_\OneDrive\Escritorio\Trabajo dirigido\Final Proyecto\APISistemaVenta\SistemaVenta.DTO\bin\Debug\net7.0\SistemaVenta.DTO.dll
+C:\Users\Andy_\OneDrive\Escritorio\Trabajo dirigido\Final Proyecto\APISistemaVenta\SistemaVenta.DTO\bin\Debug\net7.0\SistemaVenta.DTO.pdb
+C:\Users\Andy_\OneDrive\Escritorio\Trabajo dirigido\Final Proyecto\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.csproj.AssemblyReference.cache
+C:\Users\Andy_\OneDrive\Escritorio\Trabajo dirigido\Final Proyecto\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andy_\OneDrive\Escritorio\Trabajo dirigido\Final Proyecto\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.AssemblyInfoInputs.cache
+C:\Users\Andy_\OneDrive\Escritorio\Trabajo dirigido\Final Proyecto\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.AssemblyInfo.cs
+C:\Users\Andy_\OneDrive\Escritorio\Trabajo dirigido\Final Proyecto\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Andy_\OneDrive\Escritorio\Trabajo dirigido\Final Proyecto\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.dll
+C:\Users\Andy_\OneDrive\Escritorio\Trabajo dirigido\Final Proyecto\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net7.0\refint\SistemaVenta.DTO.dll
+C:\Users\Andy_\OneDrive\Escritorio\Trabajo dirigido\Final Proyecto\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.pdb
+C:\Users\Andy_\OneDrive\Escritorio\Trabajo dirigido\Final Proyecto\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net7.0\ref\SistemaVenta.DTO.dll
